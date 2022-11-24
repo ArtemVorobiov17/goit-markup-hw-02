@@ -1,0 +1,21 @@
+body {
+    background-color: #ffffff;
+    color: #212121;
+    font-family: "Roboto", sans-serif;
+}
+
+:root {
+    --basic-text-color: #212121;
+    --secondary-text-color: #757575;
+    --basic-font-weigt: font-weight: 700;
+    --secondary-font-weigt: font-weight: 500;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.list {
+    list-style: none;
+}
+
